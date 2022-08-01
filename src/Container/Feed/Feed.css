@@ -1,0 +1,11 @@
+.stories-feed img {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+}
+.profile-container {
+    border-radius: 50%;
+    background: radial-gradient(rgba(0,0,0,.15) 60%, transparent 0),
+                radial-gradient(white 65%, transparent 0),
+                linear-gradient(to top right, orange, deeppink);
+}

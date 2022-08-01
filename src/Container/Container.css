@@ -1,0 +1,5 @@
+.credits ul > li:before{
+    content: "";
+    display: list-item;
+    position: absolute;
+}
